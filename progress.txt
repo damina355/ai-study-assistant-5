@@ -1,0 +1,22 @@
+damina - math - Score: 3/3 - 100%
+Subject: math | Score: 3/3 | Percentage: 100%
+Subject: English | Score: 3/3 | Percentage: 100%
+Subject: math | Score: 3/3 | Percentage: 100%
+Subject: Math | Score: 3/3 | Percentage: 100%
+Subject: SAT | Score: 3/3 | Percentage: 100%
+Subject: IELTS | Score: 3/3 | Percentage: 100%
+Subject: History | Score: 3/3 | Percentage: 100%
+Math|3|3|100.0
+Math|3|3|100.0
+History|3|3|100.0
+SAT|4|4|100.0
+IELTS|4|4|100.0
+Math|3|3|100.0
+Math|4|4|100.0
+Math|Easy|4|4|100.0
+Math|All|6|7|85.7
+SAT|All|4|7|57.1
+Math|All|3|4|75.0
+Math|Practice|4|5|80.0
+2026-08-29 17:53 | Math | 4/5 | 80.0%
+Verbal | Score: 2/5 | Percentage: 40.0%
